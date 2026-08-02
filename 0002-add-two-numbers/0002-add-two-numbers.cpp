@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        // Create a dummy node to anchor our result list
+        // dummy -> 7 -> 0 -> 8 -> nullptr
         ListNode dummy(0);
         ListNode * tail = &dummy;
         int carry =0;
@@ -30,6 +32,7 @@ public:
                 temp += l2->val;
                 l2 = l2->next;
             }
+            // Create a new node for the current digit and move the tail
             tail->next = new ListNode(temp % 10);
             tail=tail->next;
             carry = temp / 10;
