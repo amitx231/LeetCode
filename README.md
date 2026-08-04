@@ -9,6 +9,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/amitx231/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/amitx231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/amitx231/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/amitx231/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -21,6 +22,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amitx231/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/amitx231/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amitx231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -41,8 +44,13 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amitx231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amitx231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
