@@ -13,21 +13,49 @@ public:
     ListNode* sortList(ListNode* head) {
         if(head==nullptr)
             return head;
-        vector<int>nums;
+        vector<ListNode*>nodes;
         ListNode* temp=head;
         while(temp)
         {
-            nums.push_back(temp->val);
+            nodes.push_back(temp);
             temp=temp->next;
         }
-        sort(nums.begin(),nums.end());
-        temp=head;
-        int i=0;
-        while(temp)
+        sort(nodes.begin(),nodes.end(),[](ListNode* a , ListNode* b){
+            return a->val < b->val;
+        });
+        for(int i=0 ; i<nodes.size()-1; i++)
         {
-            temp->val=nums[i++];
-            temp=temp->next;
+            nodes[i]->next=nodes[i+1];
+
         }
-        return head;
+        nodes.back()->next=nullptr;
+        return nodes[0];
     }
 };
+
+
+
+
+// class Solution {
+// public:
+//     ListNode* sortList(ListNode* head) {
+//         if(head==nullptr)
+//             return head;
+//         vector<int>nums;
+//         ListNode* temp=head;
+//         while(temp)
+//         {
+//             nums.push_back(temp->val);
+//             temp=temp->next;
+//         }
+//         sort(nums.begin(),nums.end());
+//         temp=head;
+//         int i=0;
+//         while(temp)
+//         {
+//             temp->val=nums[i++];
+//             temp=temp->next;
+//         }
+//         return head;
+//     }
+// };
