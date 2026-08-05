@@ -13,23 +13,51 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(head==nullptr)
             return head;
-        vector<int> nums;
+        vector<ListNode*> nodes;
         ListNode* temp = head;
         while(temp)
         {
-            if(nums.empty()||nums.back()!=temp->val)
+            if(nodes.empty()||nodes.back()->val!=temp->val)
             {
-                nums.push_back(temp->val);
+                nodes.push_back(temp);
             }
             temp=temp->next;
         }
-        ListNode dummy(0);
-        ListNode* tail=&dummy;
-        for(int x : nums)
+       
+        for(int i=0 ; i<nodes.size()-1;i++)
         {
-            tail->next=new ListNode(x);
-            tail=tail->next;
+            nodes[i]->next=nodes[i+1];
         }
-        return dummy.next;
+        nodes.back()->next=nullptr;
+        return nodes[0];
     }
 };
+
+
+
+
+// class Solution {
+// public:
+//     ListNode* deleteDuplicates(ListNode* head) {
+//         if(head==nullptr)
+//             return head;
+//         vector<int> nums;
+//         ListNode* temp = head;
+//         while(temp)
+//         {
+//             if(nums.empty()||nums.back()!=temp->val)
+//             {
+//                 nums.push_back(temp->val);
+//             }
+//             temp=temp->next;
+//         }
+//         ListNode dummy(0);
+//         ListNode* tail=&dummy;
+//         for(int x : nums)
+//         {
+//             tail->next=new ListNode(x);
+//             tail=tail->next;
+//         }
+//         return dummy.next;
+//     }
+// };
