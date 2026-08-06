@@ -25,11 +25,39 @@ public:
         {
             if(freq[temp->val]==1)
             {
-                tail->next = new ListNode(temp->val);
+                tail->next = temp;
                 tail=tail->next;
             }
             temp=temp->next;
         }
+        tail->next=nullptr;
         return dummy.next;
     }
 };
+
+
+// class Solution {
+// public:
+//     ListNode* deleteDuplicates(ListNode* head) {
+//         unordered_map<int,int>freq;
+//         ListNode* temp = head;
+//         while(temp)
+//         {
+//             freq[temp->val]++;
+//             temp=temp->next;
+//         }
+//         ListNode dummy(0);
+//         ListNode* tail= &dummy;
+//         temp=head;
+//         while(temp)
+//         {
+//             if(freq[temp->val]==1)
+//             {
+//                 tail->next = new ListNode(temp->val);
+//                 tail=tail->next;
+//             }
+//             temp=temp->next;
+//         }
+//         return dummy.next;
+//     }
+// };
