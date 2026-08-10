@@ -101,20 +101,24 @@ public:
         
         return dummy.next;
     }
-
+    // Divide the lists into smaller groups and merge them recursively
     ListNode* divide(vector<ListNode*>& lists , int left , int right)
     {
+        // Only one list remains
         if(left==right)
             return lists[left];
         int mid = left + (right - left)/2;
+        // Divide into two halves
         ListNode* l1 = divide(lists, left , mid);
         ListNode* l2 = divide(lists, mid+1 , right);
+        // Merge the two sorted halves
         return mergeTwoLists(l1,l2);
     }
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.empty())
             return nullptr;
+        // Divide all lists and merge them
         return divide(lists , 0 , lists.size()-1);
     }
 };
