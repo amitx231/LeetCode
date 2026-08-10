@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/amitx231/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
