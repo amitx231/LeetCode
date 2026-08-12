@@ -53,10 +53,12 @@
 | [0023-merge-k-sorted-lists](https://github.com/amitx231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amitx231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -91,4 +95,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
