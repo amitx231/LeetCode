@@ -42,6 +42,7 @@
 | [0141-linked-list-cycle](https://github.com/amitx231/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitx231/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitx231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amitx231/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -76,4 +79,16 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/amitx231/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
