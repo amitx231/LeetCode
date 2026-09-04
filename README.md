@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amitx231/LeetCode/tree/master/0002-add-two-numbers) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amitx231/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 ## Counting
 |  |
 | ------- |
