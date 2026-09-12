@@ -137,6 +137,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/amitx231/LeetCode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -169,4 +170,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/amitx231/LeetCode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
