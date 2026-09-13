@@ -44,6 +44,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/amitx231/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitx231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amitx231/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 ## Counting
@@ -153,6 +155,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -161,6 +164,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
