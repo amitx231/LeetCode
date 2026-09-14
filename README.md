@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/amitx231/LeetCode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/amitx231/LeetCode/tree/master/0176-second-highest-salary) |
 | [1757-recyclable-and-low-fat-products](https://github.com/amitx231/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Floyd's Cycle Finding Algorithm
 |  |
