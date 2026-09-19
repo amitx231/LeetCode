@@ -92,6 +92,7 @@
 | [0182-duplicate-emails](https://github.com/amitx231/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/amitx231/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/amitx231/LeetCode/tree/master/0184-department-highest-salary) |
+| [0585-investments-in-2016](https://github.com/amitx231/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/amitx231/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1757-recyclable-and-low-fat-products](https://github.com/amitx231/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Floyd's Cycle Finding Algorithm
