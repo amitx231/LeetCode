@@ -94,6 +94,7 @@
 | [0184-department-highest-salary](https://github.com/amitx231/LeetCode/tree/master/0184-department-highest-salary) |
 | [0585-investments-in-2016](https://github.com/amitx231/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/amitx231/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0626-exchange-seats](https://github.com/amitx231/LeetCode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/amitx231/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1757-recyclable-and-low-fat-products](https://github.com/amitx231/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Floyd's Cycle Finding Algorithm
