@@ -28,6 +28,7 @@
 | [0203-remove-linked-list-elements](https://github.com/amitx231/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amitx231/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amitx231/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/amitx231/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -172,6 +173,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitx231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/amitx231/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitx231/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
 | [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
