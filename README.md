@@ -115,6 +115,7 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/amitx231/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitx231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/amitx231/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/amitx231/LeetCode/tree/master/0162-find-peak-element) |
@@ -164,6 +165,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/amitx231/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/amitx231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/amitx231/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amitx231/LeetCode/tree/master/0213-house-robber-ii) |
@@ -267,4 +269,8 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/amitx231/LeetCode/tree/master/0137-single-number-ii) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/amitx231/LeetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
