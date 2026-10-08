@@ -105,6 +105,7 @@
 | [0619-biggest-single-number](https://github.com/amitx231/LeetCode/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/amitx231/LeetCode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/amitx231/LeetCode/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/amitx231/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/amitx231/LeetCode/tree/master/1075-project-employees-i) |
 | [1407-top-travellers](https://github.com/amitx231/LeetCode/tree/master/1407-top-travellers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/amitx231/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
