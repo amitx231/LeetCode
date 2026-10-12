@@ -45,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amitx231/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitx231/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitx231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -121,6 +122,7 @@
 | [0064-minimum-path-sum](https://github.com/amitx231/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitx231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/amitx231/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitx231/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/amitx231/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/amitx231/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/amitx231/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/amitx231/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amitx231/LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -218,12 +221,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amitx231/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/amitx231/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitx231/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/amitx231/LeetCode/tree/master/0071-simplify-path) |
+| [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
 | [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
@@ -278,4 +283,12 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/amitx231/LeetCode/tree/master/0064-minimum-path-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
