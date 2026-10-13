@@ -19,12 +19,11 @@ public:
     int mySqrt(int x) {
         if(x<2)
             return x;
-        
-        for(long long i = 1; i<=x; i++)
+        long long i = 1;
+        while(i*i<=x)
         {
-            if(i*i>x)
-                return i-1;
+            i++;
         }
-        return -1;
+        return i - 1;
     }
 };
