@@ -58,6 +58,7 @@
 | [0069-sqrtx](https://github.com/amitx231/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amitx231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitx231/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/amitx231/LeetCode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/amitx231/LeetCode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -297,4 +298,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amitx231/LeetCode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amitx231/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amitx231/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
