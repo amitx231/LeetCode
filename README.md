@@ -282,6 +282,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/amitx231/LeetCode/tree/master/0137-single-number-ii) |
+| [0461-hamming-distance](https://github.com/amitx231/LeetCode/tree/master/0461-hamming-distance) |
 ## Matrix
 |  |
 | ------- |
