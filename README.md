@@ -42,6 +42,7 @@
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitx231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amitx231/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 ## Database
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/amitx231/LeetCode/tree/master/0867-transpose-matrix) |
+| [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [3693-climbing-stairs-ii](https://github.com/amitx231/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Counting
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 ## Geometry
 |  |
 | ------- |
