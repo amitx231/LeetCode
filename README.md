@@ -51,6 +51,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/amitx231/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitx231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -60,6 +61,7 @@
 | [0070-climbing-stairs](https://github.com/amitx231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitx231/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/amitx231/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/amitx231/LeetCode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -92,6 +94,7 @@
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 ## Database
@@ -133,6 +136,7 @@
 | [0198-house-robber](https://github.com/amitx231/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amitx231/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amitx231/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -158,6 +162,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/amitx231/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/amitx231/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amitx231/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Indexed Tree
 |  |
@@ -287,6 +292,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/amitx231/LeetCode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/amitx231/LeetCode/tree/master/0461-hamming-distance) |
 ## Matrix
 |  |
