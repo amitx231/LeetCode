@@ -65,6 +65,7 @@
 | [0509-fibonacci-number](https://github.com/amitx231/LeetCode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/amitx231/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0867-transpose-matrix](https://github.com/amitx231/LeetCode/tree/master/0867-transpose-matrix) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/amitx231/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3693-climbing-stairs-ii](https://github.com/amitx231/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Counting
 |  |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/amitx231/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Polygons
 |  |
 | ------- |
