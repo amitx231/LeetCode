@@ -60,6 +60,7 @@
 | [0069-sqrtx](https://github.com/amitx231/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amitx231/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitx231/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0223-rectangle-area](https://github.com/amitx231/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/amitx231/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/amitx231/LeetCode/tree/master/0509-fibonacci-number) |
@@ -209,6 +210,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/amitx231/LeetCode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/amitx231/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/amitx231/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
