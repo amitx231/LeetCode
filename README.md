@@ -46,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amitx231/LeetCode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/amitx231/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amitx231/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -95,6 +96,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amitx231/LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +133,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/amitx231/LeetCode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/amitx231/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitx231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/amitx231/LeetCode/tree/master/0137-single-number-ii) |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitx231/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/amitx231/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/amitx231/LeetCode/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
