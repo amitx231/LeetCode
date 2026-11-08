@@ -271,6 +271,7 @@
 | [0071-simplify-path](https://github.com/amitx231/LeetCode/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
+| [0796-rotate-string](https://github.com/amitx231/LeetCode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amitx231/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/amitx231/LeetCode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
