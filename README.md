@@ -43,6 +43,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/amitx231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amitx231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amitx231/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/amitx231/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/amitx231/LeetCode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [3693-climbing-stairs-ii](https://github.com/amitx231/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amitx231/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -188,6 +191,7 @@
 | [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amitx231/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitx231/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Indexed Tree
 |  |
 | ------- |
