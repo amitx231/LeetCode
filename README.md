@@ -19,6 +19,7 @@
 | [0203-remove-linked-list-elements](https://github.com/amitx231/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amitx231/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amitx231/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/amitx231/LeetCode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amitx231/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amitx231/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/amitx231/LeetCode/tree/master/0622-design-circular-queue) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/amitx231/LeetCode/tree/master/0867-transpose-matrix) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
@@ -250,6 +252,7 @@
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/amitx231/LeetCode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -357,4 +360,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/amitx231/LeetCode/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/amitx231/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
