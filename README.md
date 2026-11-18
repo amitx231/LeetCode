@@ -145,6 +145,7 @@
 | [0049-group-anagrams](https://github.com/amitx231/LeetCode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/amitx231/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitx231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/amitx231/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/amitx231/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amitx231/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -332,6 +333,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/amitx231/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/amitx231/LeetCode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/amitx231/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/amitx231/LeetCode/tree/master/0260-single-number-iii) |
@@ -370,4 +372,8 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/amitx231/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/amitx231/LeetCode/tree/master/0622-design-circular-queue) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/amitx231/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
