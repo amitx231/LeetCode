@@ -111,6 +111,7 @@
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amitx231/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0853-car-fleet](https://github.com/amitx231/LeetCode/tree/master/0853-car-fleet) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Database
@@ -168,6 +169,7 @@
 | [0682-baseball-game](https://github.com/amitx231/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0853-car-fleet](https://github.com/amitx231/LeetCode/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/amitx231/LeetCode/tree/master/0867-transpose-matrix) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -254,6 +256,7 @@
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/amitx231/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/amitx231/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -267,6 +270,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/amitx231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/amitx231/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
