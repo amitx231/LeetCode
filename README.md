@@ -166,6 +166,7 @@
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/amitx231/LeetCode/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/amitx231/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/amitx231/LeetCode/tree/master/0867-transpose-matrix) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
@@ -252,6 +253,7 @@
 | [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/amitx231/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -264,6 +266,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitx231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
