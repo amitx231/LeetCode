@@ -264,6 +264,7 @@
 | [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/amitx231/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/amitx231/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [0402-remove-k-digits](https://github.com/amitx231/LeetCode/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/amitx231/LeetCode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/amitx231/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Longest Common Subsequence
 |  |
 | ------- |
