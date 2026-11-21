@@ -234,6 +234,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/amitx231/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/amitx231/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 ## Geometry
@@ -256,6 +257,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/amitx231/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/amitx231/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/amitx231/LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/amitx231/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/amitx231/LeetCode/tree/master/0682-baseball-game) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amitx231/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/amitx231/LeetCode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/amitx231/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
@@ -295,6 +298,7 @@
 | [0071-simplify-path](https://github.com/amitx231/LeetCode/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/amitx231/LeetCode/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/amitx231/LeetCode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
