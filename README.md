@@ -43,6 +43,7 @@
 | [0148-sort-list](https://github.com/amitx231/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amitx231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amitx231/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/amitx231/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
@@ -264,6 +265,7 @@
 | [0682-baseball-game](https://github.com/amitx231/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/amitx231/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amitx231/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/amitx231/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/amitx231/LeetCode/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/amitx231/LeetCode/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/amitx231/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -303,6 +305,7 @@
 | [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/amitx231/LeetCode/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/amitx231/LeetCode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/amitx231/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/amitx231/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/amitx231/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Longest Common Subsequence
@@ -383,6 +386,7 @@
 | [0258-add-digits](https://github.com/amitx231/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/amitx231/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/amitx231/LeetCode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/amitx231/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/amitx231/LeetCode/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
