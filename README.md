@@ -174,6 +174,7 @@
 | [0812-largest-triangle-area](https://github.com/amitx231/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0853-car-fleet](https://github.com/amitx231/LeetCode/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/amitx231/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/amitx231/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/amitx231/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -202,6 +203,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/amitx231/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitx231/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/amitx231/LeetCode/tree/master/0456-132-pattern) |
+| [0875-koko-eating-bananas](https://github.com/amitx231/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Indexed Tree
 |  |
