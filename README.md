@@ -178,6 +178,7 @@
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/amitx231/LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/amitx231/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amitx231/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/amitx231/LeetCode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [3693-climbing-stairs-ii](https://github.com/amitx231/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -204,6 +205,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitx231/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/amitx231/LeetCode/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/amitx231/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amitx231/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Indexed Tree
 |  |
