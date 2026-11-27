@@ -115,6 +115,7 @@
 | [0853-car-fleet](https://github.com/amitx231/LeetCode/tree/master/0853-car-fleet) |
 | [0969-pancake-sorting](https://github.com/amitx231/LeetCode/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2733-neither-minimum-nor-maximum](https://github.com/amitx231/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Database
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amitx231/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amitx231/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/amitx231/LeetCode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [2733-neither-minimum-nor-maximum](https://github.com/amitx231/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3693-climbing-stairs-ii](https://github.com/amitx231/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amitx231/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
