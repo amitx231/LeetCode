@@ -56,6 +56,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/amitx231/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amitx231/LeetCode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/amitx231/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amitx231/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/amitx231/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amitx231/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/amitx231/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -310,6 +312,7 @@
 | [0049-group-anagrams](https://github.com/amitx231/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/amitx231/LeetCode/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/amitx231/LeetCode/tree/master/0139-word-break) |
+| [0387-first-unique-character-in-a-string](https://github.com/amitx231/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/amitx231/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/amitx231/LeetCode/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/amitx231/LeetCode/tree/master/0796-rotate-string) |
@@ -404,6 +407,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/amitx231/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/amitx231/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/amitx231/LeetCode/tree/master/0622-design-circular-queue) |
 ## Backtracking
 |  |
